@@ -1,0 +1,16 @@
+E:\visualC#files\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\visualC#files\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\visualC#files\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\visualC#files\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\visualC#files\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\visualC#files\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\visualC#files\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\visualC#files\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Linq_DB\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
